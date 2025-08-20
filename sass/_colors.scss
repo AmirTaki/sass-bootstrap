@@ -7,15 +7,20 @@
         background-color: $val;
     }
 
+
     // light variations
     @for $i from 1 through 9 {
         .text-#{$key}-light-#{$i}{
-            color: mix(map-get($colors, "white"), $val, $i * 10)
+            @if ($key != "white"){
+                color: mix(map-get($colors, "white"), $val, $i * 10)
+            }
         }
         .bg-#{$key}-light-#{$i}{
             background-color: mix(map-get($colors, "black"), $val, $i * 10)
         }     
+    
     }
+  
 
     // dark variations
     @for $i from 1 through 9 {
@@ -29,3 +34,15 @@
 
 
 }
+@if (10 < 5){
+    .test-if {
+        color: black
+    }
+}
+@else {
+    .test-else {
+        color : white;
+    }
+}
+
+

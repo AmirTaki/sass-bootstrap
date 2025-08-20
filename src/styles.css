@@ -1859,72 +1859,36 @@ img {
   background-color: white;
 }
 
-.text-white-light-1 {
-  color: white;
-}
-
 .bg-white-light-1 {
   background-color: rgb(229.5, 229.5, 229.5);
-}
-
-.text-white-light-2 {
-  color: white;
 }
 
 .bg-white-light-2 {
   background-color: #cccccc;
 }
 
-.text-white-light-3 {
-  color: white;
-}
-
 .bg-white-light-3 {
   background-color: rgb(178.5, 178.5, 178.5);
-}
-
-.text-white-light-4 {
-  color: white;
 }
 
 .bg-white-light-4 {
   background-color: #999999;
 }
 
-.text-white-light-5 {
-  color: white;
-}
-
 .bg-white-light-5 {
   background-color: rgb(127.5, 127.5, 127.5);
-}
-
-.text-white-light-6 {
-  color: white;
 }
 
 .bg-white-light-6 {
   background-color: #666666;
 }
 
-.text-white-light-7 {
-  color: white;
-}
-
 .bg-white-light-7 {
   background-color: rgb(76.5, 76.5, 76.5);
 }
 
-.text-white-light-8 {
-  color: white;
-}
-
 .bg-white-light-8 {
   background-color: #333333;
-}
-
-.text-white-light-9 {
-  color: white;
 }
 
 .bg-white-light-9 {
@@ -2001,6 +1965,10 @@ img {
 
 .bg-white-dark-9 {
   background-color: rgb(25.5, 25.5, 25.5);
+}
+
+.test-else {
+  color: white;
 }
 
 .card {
