@@ -30,7 +30,20 @@
             background-color: $val;
         }
     }
+
+    .btn-complement-#{$key}{
+        @include btn($val, light-comp($val));
+        // color: light-comp($val);
+        &:hover {
+            color: $val;
+            background-color: light-comp($val);
+        }
+    }
 }
+
+
+
+
 
 
 /*
