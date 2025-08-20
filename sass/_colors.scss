@@ -3,32 +3,81 @@
     .text-#{$key}{
         color : $val
     }
+
+    // selector text-color hover 
+    .text-hover-#{$key} {
+        &:hover{
+            color: $val
+        }
+        &:last-child{
+
+        }
+        &:nth-child(2){
+
+        }
+    }
     .bg-#{$key}{
         background-color: $val;
     }
 
+    // selector background color hover
+    .bg-hover-#{$key}{
+        &:hover {
+            background-color: $val;
+        }
+    }
+
 
     // light variations
-    @for $i from 1 through 9 {
-        .text-#{$key}-light-#{$i}{
-            @if ($key != "white"){
-                color: mix(map-get($colors, "white"), $val, $i * 10)
+    @if ($key != "white"){
+        @for $i from 1 through 10 {
+            .text-#{$key}-light-#{$i}{
+                color: mix(map-get($colors, "white"), $val, $i * 10);
+            }
+            // selector hover for light text
+            .text-hover-#{$key}-light-#{$i}{
+                &:hover {
+                    color: mix(map-get($colors, "white"), $val, $i * 10 )
+                }
+            }
+
+            .bg-#{$key}-light-#{$i}{
+                background-color: mix(map-get($colors, "white"), $val, $i * 10);
+            }
+            //selector hover for light background
+            .bg-hover-#{$key}-light-#{$i}{
+                &:hover {
+                    background-color: mix(map-get($colors, 'white'), $val, $i * 10);
+                }
             }
         }
-        .bg-#{$key}-light-#{$i}{
-            background-color: mix(map-get($colors, "black"), $val, $i * 10)
-        }     
-    
     }
+    
   
 
     // dark variations
-    @for $i from 1 through 9 {
-        .text-#{$key}-dark-#{$i}{
-            color: mix(map-get($colors, "black"), $val, $i* 10)
-        }
-        .bg-#{$key}-dark-#{$i}{
-            background-color: mix(map-get($colors, "black"), $val, $i * 10);
+    @if($key != "black"){
+        @for $i from 1 through 10 {
+            .text-#{$key}-dark-#{$i}{
+                color: mix(map-get($colors, 'black'), $val, $i * 10)
+            }
+            // selector hover for dark text
+            .text-hover-#{$key}-dark-#{$i}{
+                &:hover{
+                    color: mix(map-get($colors, "black"), $val, $i * 10)
+                }
+            }
+            
+            
+            .bg-#{$key}-dark-#{$i}{
+                background-color: mix(map-get($colors, "black"), $val, $i * 10);
+            }
+            // selector hvoer for dark background
+            .bg-hover-#{$key}-dark-#{$i}{
+                &:hover {
+                    background-color: mix(map-get($colors, 'black'), $val, $i * 10);
+                }
+            } 
         }
     }
 
