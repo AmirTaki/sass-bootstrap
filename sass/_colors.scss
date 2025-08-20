@@ -9,13 +9,8 @@
         &:hover{
             color: $val
         }
-        &:last-child{
-
-        }
-        &:nth-child(2){
-
-        }
     }
+
     .bg-#{$key}{
         background-color: $val;
     }
@@ -83,15 +78,4 @@
 
 
 }
-@if (10 < 5){
-    .test-if {
-        color: black
-    }
-}
-@else {
-    .test-else {
-        color : white;
-    }
-}
-
 
