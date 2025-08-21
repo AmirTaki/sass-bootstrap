@@ -407,163 +407,163 @@ img {
   }
 }
 .text-primary {
-  color: #326dee;
+  color: rgb(56, 0, 38);
 }
 
 .text-hover-primary:hover {
-  color: #326dee;
+  color: rgb(56, 0, 38);
 }
 
 .bg-primary {
-  background-color: #326dee;
+  background-color: rgb(56, 0, 38);
 }
 
 .bg-hover-primary:hover {
-  background-color: #326dee;
+  background-color: rgb(56, 0, 38);
 }
 
 .text-primary-light-1 {
-  color: rgb(70.5, 123.6, 239.7);
+  color: rgb(75.9, 25.5, 59.7);
 }
 
 .text-hover-primary-light-1:hover {
-  color: rgb(70.5, 123.6, 239.7);
+  color: rgb(75.9, 25.5, 59.7);
 }
 
 .bg-primary-light-1 {
-  background-color: rgb(70.5, 123.6, 239.7);
+  background-color: rgb(75.9, 25.5, 59.7);
 }
 
 .bg-hover-primary-light-1:hover {
-  background-color: rgb(70.5, 123.6, 239.7);
+  background-color: rgb(75.9, 25.5, 59.7);
 }
 
 .text-primary-light-2 {
-  color: rgb(91, 138.2, 241.4);
+  color: rgb(95.8, 51, 81.4);
 }
 
 .text-hover-primary-light-2:hover {
-  color: rgb(91, 138.2, 241.4);
+  color: rgb(95.8, 51, 81.4);
 }
 
 .bg-primary-light-2 {
-  background-color: rgb(91, 138.2, 241.4);
+  background-color: rgb(95.8, 51, 81.4);
 }
 
 .bg-hover-primary-light-2:hover {
-  background-color: rgb(91, 138.2, 241.4);
+  background-color: rgb(95.8, 51, 81.4);
 }
 
 .text-primary-light-3 {
-  color: rgb(111.5, 152.8, 243.1);
+  color: rgb(115.7, 76.5, 103.1);
 }
 
 .text-hover-primary-light-3:hover {
-  color: rgb(111.5, 152.8, 243.1);
+  color: rgb(115.7, 76.5, 103.1);
 }
 
 .bg-primary-light-3 {
-  background-color: rgb(111.5, 152.8, 243.1);
+  background-color: rgb(115.7, 76.5, 103.1);
 }
 
 .bg-hover-primary-light-3:hover {
-  background-color: rgb(111.5, 152.8, 243.1);
+  background-color: rgb(115.7, 76.5, 103.1);
 }
 
 .text-primary-light-4 {
-  color: rgb(132, 167.4, 244.8);
+  color: rgb(135.6, 102, 124.8);
 }
 
 .text-hover-primary-light-4:hover {
-  color: rgb(132, 167.4, 244.8);
+  color: rgb(135.6, 102, 124.8);
 }
 
 .bg-primary-light-4 {
-  background-color: rgb(132, 167.4, 244.8);
+  background-color: rgb(135.6, 102, 124.8);
 }
 
 .bg-hover-primary-light-4:hover {
-  background-color: rgb(132, 167.4, 244.8);
+  background-color: rgb(135.6, 102, 124.8);
 }
 
 .text-primary-light-5 {
-  color: rgb(152.5, 182, 246.5);
+  color: rgb(155.5, 127.5, 146.5);
 }
 
 .text-hover-primary-light-5:hover {
-  color: rgb(152.5, 182, 246.5);
+  color: rgb(155.5, 127.5, 146.5);
 }
 
 .bg-primary-light-5 {
-  background-color: rgb(152.5, 182, 246.5);
+  background-color: rgb(155.5, 127.5, 146.5);
 }
 
 .bg-hover-primary-light-5:hover {
-  background-color: rgb(152.5, 182, 246.5);
+  background-color: rgb(155.5, 127.5, 146.5);
 }
 
 .text-primary-light-6 {
-  color: rgb(173, 196.6, 248.2);
+  color: rgb(175.4, 153, 168.2);
 }
 
 .text-hover-primary-light-6:hover {
-  color: rgb(173, 196.6, 248.2);
+  color: rgb(175.4, 153, 168.2);
 }
 
 .bg-primary-light-6 {
-  background-color: rgb(173, 196.6, 248.2);
+  background-color: rgb(175.4, 153, 168.2);
 }
 
 .bg-hover-primary-light-6:hover {
-  background-color: rgb(173, 196.6, 248.2);
+  background-color: rgb(175.4, 153, 168.2);
 }
 
 .text-primary-light-7 {
-  color: rgb(193.5, 211.2, 249.9);
+  color: rgb(195.3, 178.5, 189.9);
 }
 
 .text-hover-primary-light-7:hover {
-  color: rgb(193.5, 211.2, 249.9);
+  color: rgb(195.3, 178.5, 189.9);
 }
 
 .bg-primary-light-7 {
-  background-color: rgb(193.5, 211.2, 249.9);
+  background-color: rgb(195.3, 178.5, 189.9);
 }
 
 .bg-hover-primary-light-7:hover {
-  background-color: rgb(193.5, 211.2, 249.9);
+  background-color: rgb(195.3, 178.5, 189.9);
 }
 
 .text-primary-light-8 {
-  color: rgb(214, 225.8, 251.6);
+  color: rgb(215.2, 204, 211.6);
 }
 
 .text-hover-primary-light-8:hover {
-  color: rgb(214, 225.8, 251.6);
+  color: rgb(215.2, 204, 211.6);
 }
 
 .bg-primary-light-8 {
-  background-color: rgb(214, 225.8, 251.6);
+  background-color: rgb(215.2, 204, 211.6);
 }
 
 .bg-hover-primary-light-8:hover {
-  background-color: rgb(214, 225.8, 251.6);
+  background-color: rgb(215.2, 204, 211.6);
 }
 
 .text-primary-light-9 {
-  color: rgb(234.5, 240.4, 253.3);
+  color: rgb(235.1, 229.5, 233.3);
 }
 
 .text-hover-primary-light-9:hover {
-  color: rgb(234.5, 240.4, 253.3);
+  color: rgb(235.1, 229.5, 233.3);
 }
 
 .bg-primary-light-9 {
-  background-color: rgb(234.5, 240.4, 253.3);
+  background-color: rgb(235.1, 229.5, 233.3);
 }
 
 .bg-hover-primary-light-9:hover {
-  background-color: rgb(234.5, 240.4, 253.3);
+  background-color: rgb(235.1, 229.5, 233.3);
 }
 
 .text-primary-light-10 {
@@ -583,147 +583,147 @@ img {
 }
 
 .text-primary-dark-1 {
-  color: rgb(45, 98.1, 214.2);
+  color: rgb(50.4, 0, 34.2);
 }
 
 .text-hover-primary-dark-1:hover {
-  color: rgb(45, 98.1, 214.2);
+  color: rgb(50.4, 0, 34.2);
 }
 
 .bg-primary-dark-1 {
-  background-color: rgb(45, 98.1, 214.2);
+  background-color: rgb(50.4, 0, 34.2);
 }
 
 .bg-hover-primary-dark-1:hover {
-  background-color: rgb(45, 98.1, 214.2);
+  background-color: rgb(50.4, 0, 34.2);
 }
 
 .text-primary-dark-2 {
-  color: rgb(40, 87.2, 190.4);
+  color: rgb(44.8, 0, 30.4);
 }
 
 .text-hover-primary-dark-2:hover {
-  color: rgb(40, 87.2, 190.4);
+  color: rgb(44.8, 0, 30.4);
 }
 
 .bg-primary-dark-2 {
-  background-color: rgb(40, 87.2, 190.4);
+  background-color: rgb(44.8, 0, 30.4);
 }
 
 .bg-hover-primary-dark-2:hover {
-  background-color: rgb(40, 87.2, 190.4);
+  background-color: rgb(44.8, 0, 30.4);
 }
 
 .text-primary-dark-3 {
-  color: rgb(35, 76.3, 166.6);
+  color: rgb(39.2, 0, 26.6);
 }
 
 .text-hover-primary-dark-3:hover {
-  color: rgb(35, 76.3, 166.6);
+  color: rgb(39.2, 0, 26.6);
 }
 
 .bg-primary-dark-3 {
-  background-color: rgb(35, 76.3, 166.6);
+  background-color: rgb(39.2, 0, 26.6);
 }
 
 .bg-hover-primary-dark-3:hover {
-  background-color: rgb(35, 76.3, 166.6);
+  background-color: rgb(39.2, 0, 26.6);
 }
 
 .text-primary-dark-4 {
-  color: rgb(30, 65.4, 142.8);
+  color: rgb(33.6, 0, 22.8);
 }
 
 .text-hover-primary-dark-4:hover {
-  color: rgb(30, 65.4, 142.8);
+  color: rgb(33.6, 0, 22.8);
 }
 
 .bg-primary-dark-4 {
-  background-color: rgb(30, 65.4, 142.8);
+  background-color: rgb(33.6, 0, 22.8);
 }
 
 .bg-hover-primary-dark-4:hover {
-  background-color: rgb(30, 65.4, 142.8);
+  background-color: rgb(33.6, 0, 22.8);
 }
 
 .text-primary-dark-5 {
-  color: rgb(25, 54.5, 119);
+  color: #1c0013;
 }
 
 .text-hover-primary-dark-5:hover {
-  color: rgb(25, 54.5, 119);
+  color: #1c0013;
 }
 
 .bg-primary-dark-5 {
-  background-color: rgb(25, 54.5, 119);
+  background-color: #1c0013;
 }
 
 .bg-hover-primary-dark-5:hover {
-  background-color: rgb(25, 54.5, 119);
+  background-color: #1c0013;
 }
 
 .text-primary-dark-6 {
-  color: rgb(20, 43.6, 95.2);
+  color: rgb(22.4, 0, 15.2);
 }
 
 .text-hover-primary-dark-6:hover {
-  color: rgb(20, 43.6, 95.2);
+  color: rgb(22.4, 0, 15.2);
 }
 
 .bg-primary-dark-6 {
-  background-color: rgb(20, 43.6, 95.2);
+  background-color: rgb(22.4, 0, 15.2);
 }
 
 .bg-hover-primary-dark-6:hover {
-  background-color: rgb(20, 43.6, 95.2);
+  background-color: rgb(22.4, 0, 15.2);
 }
 
 .text-primary-dark-7 {
-  color: rgb(15, 32.7, 71.4);
+  color: rgb(16.8, 0, 11.4);
 }
 
 .text-hover-primary-dark-7:hover {
-  color: rgb(15, 32.7, 71.4);
+  color: rgb(16.8, 0, 11.4);
 }
 
 .bg-primary-dark-7 {
-  background-color: rgb(15, 32.7, 71.4);
+  background-color: rgb(16.8, 0, 11.4);
 }
 
 .bg-hover-primary-dark-7:hover {
-  background-color: rgb(15, 32.7, 71.4);
+  background-color: rgb(16.8, 0, 11.4);
 }
 
 .text-primary-dark-8 {
-  color: rgb(10, 21.8, 47.6);
+  color: rgb(11.2, 0, 7.6);
 }
 
 .text-hover-primary-dark-8:hover {
-  color: rgb(10, 21.8, 47.6);
+  color: rgb(11.2, 0, 7.6);
 }
 
 .bg-primary-dark-8 {
-  background-color: rgb(10, 21.8, 47.6);
+  background-color: rgb(11.2, 0, 7.6);
 }
 
 .bg-hover-primary-dark-8:hover {
-  background-color: rgb(10, 21.8, 47.6);
+  background-color: rgb(11.2, 0, 7.6);
 }
 
 .text-primary-dark-9 {
-  color: rgb(5, 10.9, 23.8);
+  color: rgb(5.6, 0, 3.8);
 }
 
 .text-hover-primary-dark-9:hover {
-  color: rgb(5, 10.9, 23.8);
+  color: rgb(5.6, 0, 3.8);
 }
 
 .bg-primary-dark-9 {
-  background-color: rgb(5, 10.9, 23.8);
+  background-color: rgb(5.6, 0, 3.8);
 }
 
 .bg-hover-primary-dark-9:hover {
-  background-color: rgb(5, 10.9, 23.8);
+  background-color: rgb(5.6, 0, 3.8);
 }
 
 .text-primary-dark-10 {
@@ -4456,14 +4456,14 @@ img {
 
 .card {
   display: block;
-  padding: 0.75rem;
-  border: 1px solid #ddd;
+  padding: 1rem;
+  border: 3px solid #ddd;
   box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1);
   border-radius: 5px;
 }
 .card .card-title {
   font-size: 1.5rem;
-  padding-bottom: 0.75rem;
+  padding-bottom: 1rem;
   font-weight: bold;
 }
 .card .card-body {
@@ -4478,7 +4478,7 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: #e2e2e2;
   color: black;
@@ -4489,13 +4489,13 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
-  background-color: #326dee;
+  background-color: rgb(56, 0, 38);
   color: black;
 }
 .btn-primary:hover {
-  background-color: rgb(73.5472972973, 125.7702702703, 239.9527027027);
+  background-color: rgb(81.5, 0, 55.3035714286);
 }
 
 .btn-outlined-primary {
@@ -4503,14 +4503,14 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: #fff;
   color: black;
-  border: 1px solid #326dee;
+  border: 3px solid rgb(56, 0, 38);
 }
 .btn-outlined-primary:hover {
-  background-color: #326dee;
+  background-color: rgb(56, 0, 38);
 }
 
 .btn-complement-primary {
@@ -4518,14 +4518,14 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
-  background-color: #326dee;
-  color: rgb(249.7162162162, 231.3783783784, 191.2837837838);
+  background-color: rgb(56, 0, 38);
+  color: rgb(0, 209, 67.1785714286);
 }
 .btn-complement-primary:hover {
-  color: #326dee;
-  background-color: rgb(249.7162162162, 231.3783783784, 191.2837837838);
+  color: rgb(56, 0, 38);
+  background-color: rgb(0, 209, 67.1785714286);
 }
 
 .btn-secondary {
@@ -4533,7 +4533,7 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: #1ac888;
   color: black;
@@ -4547,11 +4547,11 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: #fff;
   color: black;
-  border: 1px solid #1ac888;
+  border: 3px solid #1ac888;
 }
 .btn-outlined-secondary:hover {
   background-color: #1ac888;
@@ -4562,7 +4562,7 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: #1ac888;
   color: rgb(239.9292035398, 139.0707964602, 176.1681415929);
@@ -4577,7 +4577,7 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: #d32752;
   color: black;
@@ -4591,11 +4591,11 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: #fff;
   color: black;
-  border: 1px solid #d32752;
+  border: 3px solid #d32752;
 }
 .btn-outlined-error:hover {
   background-color: #d32752;
@@ -4606,7 +4606,7 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: #d32752;
   color: rgb(164.692, 238.308, 219.904);
@@ -4621,7 +4621,7 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: #f6c21c;
   color: black;
@@ -4635,11 +4635,11 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: #fff;
   color: black;
-  border: 1px solid #f6c21c;
+  border: 3px solid #f6c21c;
 }
 .btn-outlined-info:hover {
   background-color: #f6c21c;
@@ -4650,7 +4650,7 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: #f6c21c;
   color: rgb(175.1652542373, 193.4533898305, 251.8347457627);
@@ -4665,7 +4665,7 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: #1919e6;
   color: black;
@@ -4679,11 +4679,11 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: #fff;
   color: black;
-  border: 1px solid #1919e6;
+  border: 3px solid #1919e6;
 }
 .btn-outlined-blue:hover {
   background-color: #1919e6;
@@ -4694,7 +4694,7 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: #1919e6;
   color: #f5f5a3;
@@ -4709,7 +4709,7 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: #e61919;
   color: black;
@@ -4723,11 +4723,11 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: #fff;
   color: black;
-  border: 1px solid #e61919;
+  border: 3px solid #e61919;
 }
 .btn-outlined-red:hover {
   background-color: #e61919;
@@ -4738,7 +4738,7 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: #e61919;
   color: #a3f5f5;
@@ -4753,7 +4753,7 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: #e6e619;
   color: black;
@@ -4767,11 +4767,11 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: #fff;
   color: black;
-  border: 1px solid #e6e619;
+  border: 3px solid #e6e619;
 }
 .btn-outlined-yellow:hover {
   background-color: #e6e619;
@@ -4782,7 +4782,7 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: #e6e619;
   color: #a3a3f5;
@@ -4797,7 +4797,7 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: #19e635;
   color: black;
@@ -4811,11 +4811,11 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: #fff;
   color: black;
-  border: 1px solid #19e635;
+  border: 3px solid #19e635;
 }
 .btn-outlined-green:hover {
   background-color: #19e635;
@@ -4826,7 +4826,7 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: #19e635;
   color: rgb(245, 163, 233.8);
@@ -4841,7 +4841,7 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: #ffa600;
   color: black;
@@ -4855,11 +4855,11 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: #fff;
   color: black;
-  border: 1px solid #ffa600;
+  border: 3px solid #ffa600;
 }
 .btn-outlined-orange:hover {
   background-color: #ffa600;
@@ -4870,7 +4870,7 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: #ffa600;
   color: rgb(153, 188.6, 255);
@@ -4885,7 +4885,7 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: #9900ff;
   color: black;
@@ -4899,11 +4899,11 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: #fff;
   color: black;
-  border: 1px solid #9900ff;
+  border: 3px solid #9900ff;
 }
 .btn-outlined-purple:hover {
   background-color: #9900ff;
@@ -4914,7 +4914,7 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: #9900ff;
   color: rgb(193.8, 255, 153);
@@ -4929,7 +4929,7 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: #808080;
   color: black;
@@ -4943,11 +4943,11 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: #fff;
   color: black;
-  border: 1px solid #808080;
+  border: 3px solid #808080;
 }
 .btn-outlined-gray:hover {
   background-color: #808080;
@@ -4958,7 +4958,7 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: #808080;
   color: rgb(204.5, 204.5, 204.5);
@@ -4973,7 +4973,7 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: black;
   color: black;
@@ -4987,11 +4987,11 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: #fff;
   color: black;
-  border: 1px solid black;
+  border: 3px solid black;
 }
 .btn-outlined-black:hover {
   background-color: black;
@@ -5002,7 +5002,7 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: black;
   color: rgb(76.5, 76.5, 76.5);
@@ -5017,7 +5017,7 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: white;
   color: black;
@@ -5031,11 +5031,11 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: #fff;
   color: black;
-  border: 1px solid white;
+  border: 3px solid white;
 }
 .btn-outlined-white:hover {
   background-color: white;
@@ -5046,7 +5046,7 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: white;
   color: white;
@@ -5092,14 +5092,14 @@ img {
 }
 
 .navbar, .navbar-white, .navbar-black, .navbar-gray, .navbar-purple, .navbar-orange, .navbar-green, .navbar-yellow, .navbar-red, .navbar-blue, .navbar-info, .navbar-error, .navbar-secondary, .navbar-primary {
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1);
 }
 .navbar .site-title, .navbar-white .site-title, .navbar-black .site-title, .navbar-gray .site-title, .navbar-purple .site-title, .navbar-orange .site-title, .navbar-green .site-title, .navbar-yellow .site-title, .navbar-red .site-title, .navbar-blue .site-title, .navbar-info .site-title, .navbar-error .site-title, .navbar-secondary .site-title, .navbar-primary .site-title {
   font-size: 1.5rem;
 }
 .navbar-primary {
-  background-color: #326dee;
+  background-color: rgb(56, 0, 38);
 }
 
 .navbar-secondary {
@@ -5155,23 +5155,23 @@ img {
 }
 
 .p-1 {
-  padding: 0.75rem;
+  padding: 1rem;
 }
 
 .p-2 {
-  padding: 1.5rem;
+  padding: 2rem;
 }
 
 .p-3 {
-  padding: 3rem;
+  padding: 4rem;
 }
 
 .p-4 {
-  padding: 4.5rem;
+  padding: 6rem;
 }
 
 .p-5 {
-  padding: 6rem;
+  padding: 8rem;
 }
 
 .pl-0 {
@@ -5179,23 +5179,23 @@ img {
 }
 
 .pl-1 {
-  padding-left: 0.75rem;
+  padding-left: 1rem;
 }
 
 .pl-2 {
-  padding-left: 1.5rem;
+  padding-left: 2rem;
 }
 
 .pl-3 {
-  padding-left: 3rem;
+  padding-left: 4rem;
 }
 
 .pl-4 {
-  padding-left: 4.5rem;
+  padding-left: 6rem;
 }
 
 .pl-5 {
-  padding-left: 6rem;
+  padding-left: 8rem;
 }
 
 .pr-0 {
@@ -5203,23 +5203,23 @@ img {
 }
 
 .pr-1 {
-  padding-right: 0.75rem;
+  padding-right: 1rem;
 }
 
 .pr-2 {
-  padding-right: 1.5rem;
+  padding-right: 2rem;
 }
 
 .pr-3 {
-  padding-right: 3rem;
+  padding-right: 4rem;
 }
 
 .pr-4 {
-  padding-right: 4.5rem;
+  padding-right: 6rem;
 }
 
 .pr-5 {
-  padding-right: 6rem;
+  padding-right: 8rem;
 }
 
 .pt-0 {
@@ -5227,23 +5227,23 @@ img {
 }
 
 .pt-1 {
-  padding-top: 0.75rem;
+  padding-top: 1rem;
 }
 
 .pt-2 {
-  padding-top: 1.5rem;
+  padding-top: 2rem;
 }
 
 .pt-3 {
-  padding-top: 3rem;
+  padding-top: 4rem;
 }
 
 .pt-4 {
-  padding-top: 4.5rem;
+  padding-top: 6rem;
 }
 
 .pt-5 {
-  padding-top: 6rem;
+  padding-top: 8rem;
 }
 
 .pb-0 {
@@ -5251,23 +5251,23 @@ img {
 }
 
 .pb-1 {
-  padding-bottom: 0.75rem;
+  padding-bottom: 1rem;
 }
 
 .pb-2 {
-  padding-bottom: 1.5rem;
+  padding-bottom: 2rem;
 }
 
 .pb-3 {
-  padding-bottom: 3rem;
+  padding-bottom: 4rem;
 }
 
 .pb-4 {
-  padding-bottom: 4.5rem;
+  padding-bottom: 6rem;
 }
 
 .pb-5 {
-  padding-bottom: 6rem;
+  padding-bottom: 8rem;
 }
 
 .m-0 {
